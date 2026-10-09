@@ -32,3 +32,12 @@ No campo da IA, tecnologias como a Visão Computacional, o Processamento de Ling
 Por outro lado, a Automação — aliada à robótica assistiva e à domótica (*smart homes*) — atua diretamente na autonomia física e na segurança. No acompanhamento de idosos, sensores ambientais e robôs assistivos utilizam inteligência preditiva para detetar quedas, monitorizar sinais vitais e emitir alertas automáticos a cuidadores ou serviços de emergência sem necessidade de ação manual da vítima. Além disso, cadeiras de rodas autónomas e próteses robóticas mímicas utilizam sensores e IA para adaptar a marcha ao terreno e prevenir colisões, devolvendo a mobilidade com menor desgaste físico para o utilizador.
 
 Assim, a combinação entre automação física e algoritmos inteligentes não apenas contorna os desafios tradicionais de acessibilidade, mas transforma a tecnologia num agente ativo de inclusão, autonomia e qualidade de vida.
+
+
+## Conclusão
+
+A integração da Inteligência Artificial e da Automação no desenvolvimento de tecnologias assistivas representa um avanço fundamental para a promoção da acessibilidade e da inclusão social. Conforme analisado ao longo deste trabalho, a transição de dispositivos estáticos para soluções inteligentes e adaptativas permite superar barreiras históricas enfrentadas por Pessoas com Deficiência e Idosos, promovendo autonomia, dignidade e segurança no quotidiano.
+
+Enquanto a Inteligência Artificial oferece a capacidade de processamento de dados em tempo real, reconhecimento de padrões e personalização de interfaces, a Automação garante a execução precisa de tarefas físicas e o monitoramento contínuo em ambientes domésticos e urbanos. Juntas, essas tecnologias reduzem a dependência de terceiros e expandem o acesso à educação, ao trabalho e ao lazer.
+
+Contudo, para que esses avanços alcancem todo o seu potencial inclusivo, é indispensável enfrentar desafios como o alto custo de desenvolvimento, a necessidade de infraestrutura digital e a garantia de privacidade de dados sensíveis. Conclui-se, portanto, que o futuro das tecnologias assistivas exige um esforço conjunto entre inovação tecnológica, políticas públicas e princípios éticos, assegurando que o progresso científico beneficie de forma equitativa toda a sociedade.
