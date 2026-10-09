@@ -10,6 +10,6 @@
 **Teor:** Tecnológico e Sociológico
 
 ## Planejamento e Cronograma
-- [ ] **Semana 1:** Buscar 4 artigos teóricos e escrever a Introdução.
-- [ ] **Semana 2:** Escrever o Desenvolvimento (Desafios de Acessibilidade / Soluções com IA e Automação).
-- [ ] **Semana 3:** Escrever a Conclusão, realizar revisão textual e formatar conforme normas.
+- [x] **Semana 1:** Buscar 4 artigos teóricos e escrever a Introdução.
+- [x] **Semana 2:** Escrever o Desenvolvimento (Desafios de Acessibilidade / Soluções com IA e Automação).
+- [x] **Semana 3:** Escrever a Conclusão, realizar revisão textual e formatar conforme normas.
